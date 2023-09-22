@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tailwind Blog Template</title>
-    <meta name="author" content="Ismael Catala">
-    <meta name="description" content="El Rincon de Isma">
+    <meta name="author" content="Ruben Sacristan">
+    <meta name="description" content="Ruben Sacristan">
 
     <!-- Tailwind -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
@@ -57,10 +57,10 @@
     <header class="w-full container mx-auto">
         <div class="flex flex-col items-center py-12">
             <a class="font-bold text-gray-800 uppercase hover:text-gray-700 text-5xl" href="#">
-                Minimal Blog
+                My Blog
             </a>
             <p class="text-lg text-gray-600">
-                EL RINCON DE ISMA
+                RUBÉN SACRISTÁN
             </p>
         </div>
     </header>
